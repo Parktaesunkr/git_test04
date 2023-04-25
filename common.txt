@@ -2,6 +2,10 @@
 
 
 
-fonctiona(){
+function a(){
+
+}
+
+function c(){
 
 }
