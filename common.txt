@@ -1,7 +1,9 @@
+function b(){
+
+}
 
 
 
-
-fonctiona(){
+function a(){
 
 }
